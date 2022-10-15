@@ -1,16 +1,7 @@
 # magic_8_ball
 
-A new Flutter project.
+ANOTHER FLUTTER APP HAHAHA
 
-## Getting Started
+I just finished building an app that changes states when you press on the image.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ask a question loudly so that the app can hear you, and then tap the image to see the answer, there are 4 possible answers: YES, NO, ASK AGAIN LATER, THE ANSWER IS YES, I HAVE NO IDEA.
